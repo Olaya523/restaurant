@@ -6,7 +6,10 @@ Navega a la Carpeta de Destino: Utiliza el comando *cd* para navegar a la carpet
 
 Utiliza el comando *git clone https://github.com/Olaya523/restaurant.git* 
 
-# Si quieres instala SQLite browser para ver la base de datos en vivo. 
-# Descarga Docker Desktop
-# En la carpeta del proyecto, utiliza el comando docker compose up para correr los contenedores.
+Si quieres instala SQLite browser para ver la base de datos en vivo. 
+
+Descarga Docker Desktop
+
+En la carpeta del proyecto, utiliza el comando *docker compose up* en el cmd para correr los contenedores.
+
 http://localhost:5003/home (Main) // http://localhost:5000/temp (cocina) // http://localhost:5001/temp (historial) // http://localhost:5002/temp (inventario)
